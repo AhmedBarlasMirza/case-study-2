@@ -1,0 +1,12 @@
+# SimpleCalculator
+
+## Description
+A simple Java console program that can **add, subtract, multiply, and divide** two numbers.
+
+## How to Run
+1. Install Java (JDK) on your computer.
+2. Open terminal / command prompt.
+3. Navigate to the project folder.
+4. Compile the program:
+```bash
+javac Calculator.java
